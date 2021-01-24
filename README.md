@@ -32,7 +32,7 @@ I recommend to add this library as a submodule to your project, as it follows:
 mkdir my-new-board
 cd my-new-board
 git init
-git submodule add git@github.com:leoheck/gaph-kicad-library.git library
+git submodule add git@github.com:gaph-pucrs/gaph-kicad-library.git library
 cp library/board/board.pro .
 cp library/fp-lib-table .
 cp library/sym-lib-table .
